@@ -18,7 +18,8 @@
 
   },
   "scripts": {
-
+    "clean": "rimraf ./build/",
+    "precompile": "yarn clean"
   },
   "license": "MIT"
 }
