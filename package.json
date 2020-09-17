@@ -1,7 +1,7 @@
 {
   "name": "@iccswap/lib",
-  "version": "1.0.0",
-  "description": "📖 Solidity libraries that are shared across ICCSwap contracts",
+  "version": "1.0.3",
+  "description": "Solidity libraries that are shared across ICCSwap contracts",
   "files": [
     "contracts",
     "!contracts/test"
